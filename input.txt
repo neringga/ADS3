@@ -1,0 +1,5 @@
+Paskola 1000 
+Laikotarpis 10 
+MetinesPalukanos 12 
+Delspinigiai 24
+TurimiPinigai nuo 40 iki 120
